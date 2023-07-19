@@ -22,3 +22,4 @@ So, you can go to the frontend website and see it running there as well. However
 ![image](https://github.com/SaiyedRushan/react-springboot-movies-application/assets/70185785/13e03e3b-3acd-4ffc-82a7-691b90b3b4f3)
 ![image](https://github.com/SaiyedRushan/react-springboot-movies-application/assets/70185785/8df2ccdc-ef0f-4381-ad0a-0a9d69a05e84)
 
+This is a very simple project that I built following the tutorial on [freeCodeCamp](https://www.youtube.com/watch?v=5PdEmeopJVQ&t=2s) to familiarize myself with Spring Boot and hosting an API on AWS Beanstalk.
